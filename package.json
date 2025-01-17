@@ -1,0 +1,24 @@
+{
+  "name": "ppstaticnodeapp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobWoodbury/PPStaticNodeApp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobWoodbury/PPStaticNodeApp/issues"
+  },
+  "homepage": "https://github.com/JacobWoodbury/PPStaticNodeApp#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
